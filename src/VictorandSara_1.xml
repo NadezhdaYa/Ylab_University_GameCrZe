@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<GamePlay>
+	<Player id="4" name="Victor" symbol="X"/>
+	<Player id="3" name="Sara" symbol="O"/>
+	<Game>
+		<Step num="1" playerId="4">1</Step>
+		<Step num="2" playerId="3">4</Step>
+		<Step num="3" playerId="4">5</Step>
+		<Step num="4" playerId="3">9</Step>
+		<Step num="5" playerId="4">2</Step>
+		<Step num="6" playerId="3">3</Step>
+		<Step num="7" playerId="4">8</Step>
+	</Game>
+	<GameResult>
+		<Player id="4" name="Victor" symbol="X"/>
+	</GameResult>
+</GamePlay>
